@@ -1,0 +1,11 @@
+body {
+    font-family: fantasy;
+    font-size: x-large;
+    margin: auto;
+    color: #1b323e;
+    text-align: center;
+}
+button {
+    background-color: #fff;
+    color: #1b323e;
+}
